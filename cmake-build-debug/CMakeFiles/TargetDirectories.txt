@@ -1,0 +1,3 @@
+/home/yassatamer/CLionProjects/solvingpros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yassatamer/CLionProjects/solvingpros/cmake-build-debug/CMakeFiles/solvingpros.dir
+/home/yassatamer/CLionProjects/solvingpros/cmake-build-debug/CMakeFiles/edit_cache.dir
